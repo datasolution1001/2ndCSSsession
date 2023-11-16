@@ -1,0 +1,21 @@
+div {
+    color: white;
+    width: 100px;
+    padding: 10px;
+    position: absolute;
+}
+
+.one {
+    background-color: red;
+    top: 10px;
+    left: 10px;
+    
+}
+.two {
+    background-color: green;
+    top: 20px;
+    left:20px;
+}
+.three {
+    background-color: blue;
+}
